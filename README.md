@@ -1,6 +1,9 @@
 # Automação Mobile - Calculadora Google  
 
-### Validar a funcionalidade do aplicativo.
+![Logo](https://github.com/Caroline-Nietto/Automation_Mobile_Calc_Google/blob/main/calc.png)  
+
+### Teste:   
+Validar a funcionalidade do aplicativo e realizar automação.
 
 
 **Ferramentas**:  
@@ -13,10 +16,15 @@ Apk Info_2.3.2_Apkpure
 Apk Calculator_8.4 (503542421)_Apkpure  
 
 
-Para instalar as bibliotecas, no terminal, rode os seguiuntes comandos:  
+
+Para instalar as bibliotecas, no terminal, na raiz do projeto, rode os seguiuntes comandos:  
 
 pip install Appium-Python-Client  
-pip install pytest
+pip install pytest  
+
+
+Arquivo com a Automação:  
+main.py
 
 
 
